@@ -1,16 +1,22 @@
-### Hi there 👋
+# ¡Hola! Soy Iván Baquero 👋
 
-<!--
-**ivanbaquero8/ivanbaquero8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de grado medio de Sistemas Microinformáticos y Redes en Centro San Valero (Zaragoza). Me gusta la ciberseguridad, la programación y la animación 3d.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aptitudes
+
+- Conocimientos en lenguajes de programación como python, html... 💻
+- Conocimientos en ciberseguridad. 👨‍💻
+- Conocimientos en AWS ( EC2, S3, RDS ). 📱
+- Conocimientos en creación de servidores DHCP, DNS, APACHE... en ubuntu server. 🖥️
+- Conocimientos en redes locales. 🧑‍💻
+- Conocimientos en aplicaciones ofimáticas como excel, word y power point. ⌨️
+- Conocimientos en aplicaciones web como wordpress. ⌨️
+- Conocimientos en github. 💻
+- Inglés 🔤
+- Atención al cliente 🧑‍🤝‍🧑
+
+## Puedes encontrarme en:
+
+- [Linkedin](https://www.linkedin.com/in/iv%C3%A1n-baquero-valiente-23b81b239/)
+
